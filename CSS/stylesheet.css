@@ -16,7 +16,7 @@
 	font-size: 24px;
 	color: #ffffff;
 	background-color: #494e6b;
-	height: 230px;
+	height: 200px;
 	width: auto;
 	text-align: center;
 	margin-top:0;
@@ -26,7 +26,7 @@
 	z-index: 2000;
 	text-align: center;
 	width: auto;
-	height: 50px;
+	height: 0px;
 	margin: auto;
 }
 
@@ -116,7 +116,7 @@
 	background-color: #192231 ;
 	margin: auto;
 	height: 75px;
-	width: 45%;
+	width: 65%;
 	text-align: center;
 }
 #Sectors {
@@ -127,9 +127,6 @@
 	margin: auto;
 	height: auto;
 	width: 100%;
-
-
-
 }
 
 #SectorColour {
@@ -236,4 +233,22 @@
 		top: 18px;
 		left: 10px;
 	}
+}
+
+button {
+    background-color: #975f6B;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+	width: 50%;
+}
+
+input {
+	float: right;
+	background-color: #192231;
+	color: white;
 }
