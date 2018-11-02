@@ -1,0 +1,6 @@
+## Notes document for colours and stuff we need often ##
+
+# Background Colour = #192231
+# Banner Colour = #494E6B
+# Buttons Colour = #975F6B
+# Extra Sector Colour = #A0928F
