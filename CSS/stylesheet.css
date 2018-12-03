@@ -10,6 +10,7 @@
 	left: 0;
 	top: 0;
 	z-index: 10;
+	overflow: auto;
 }
 #HEADER {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
